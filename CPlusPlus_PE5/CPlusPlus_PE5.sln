@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumForPerInput", "SumForPer
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interest", "Interest\Interest.vcproj", "{A68F2E74-7D07-46FC-BB7A-4C454056493D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BookSale", "BookSale\BookSale.vcproj", "{950B5680-8007-45C7-94F7-91F3A1740EC7}"
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
@@ -29,6 +31,10 @@ Global
 		{A68F2E74-7D07-46FC-BB7A-4C454056493D}.Debug|Win32.Build.0 = Debug|Win32
 		{A68F2E74-7D07-46FC-BB7A-4C454056493D}.Release|Win32.ActiveCfg = Release|Win32
 		{A68F2E74-7D07-46FC-BB7A-4C454056493D}.Release|Win32.Build.0 = Release|Win32
+		{950B5680-8007-45C7-94F7-91F3A1740EC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{950B5680-8007-45C7-94F7-91F3A1740EC7}.Debug|Win32.Build.0 = Debug|Win32
+		{950B5680-8007-45C7-94F7-91F3A1740EC7}.Release|Win32.ActiveCfg = Release|Win32
+		{950B5680-8007-45C7-94F7-91F3A1740EC7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
